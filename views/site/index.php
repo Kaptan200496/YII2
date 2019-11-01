@@ -11,7 +11,7 @@ $this->title = 'My Yii Test';
 
         <p class="lead">This page for football fans.</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Go with me</a></p>
+        <p><a class="btn btn-lg btn-success" href="https://football24.ua/ru/liga_chempionov_championat_tag50824/">Go with me</a></p>
     </div>
 
     <div class="body-content">
